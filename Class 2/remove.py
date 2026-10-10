@@ -1,0 +1,5 @@
+n= list(map(int,input().split()))
+n.remove()
+print(n)
+n.remove(30)
+print(n)
