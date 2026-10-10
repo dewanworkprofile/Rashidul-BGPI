@@ -11,12 +11,13 @@
 #     print("palindrom")
 # else: print("not palindrom")
 
-word=input()
-list=[]
-for i in word:
-    list.append(i)
-new_list=list.copy()
-new_list.reverse()
-if list==new_list:
-    print("palindrom")
-else : print("Not palindrom")
+# word=input()
+# list=[]
+# for i in word:
+#     list.append(i)
+# new_list=list.copy()
+# new_list.reverse()
+# if list==new_list:
+#     print("palindrom")
+# else : print("Not palindrom")
+
